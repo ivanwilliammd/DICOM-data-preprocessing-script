@@ -1,8 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed Feb 21 12:28:19 2018
-
-@author: m.goetz@dkfz-heidelberg.de
+Last updated Apr 2019
+by @ivanwilliammd
 """
 import xml.etree.ElementTree as ET
 

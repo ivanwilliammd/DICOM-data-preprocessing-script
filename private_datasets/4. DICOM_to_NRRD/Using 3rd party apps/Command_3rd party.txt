@@ -1,0 +1,11 @@
+Plastimatch
+
+http://plastimatch.org/windows_installation.html
+https://groups.google.com/forum/#!topic/plastimatch/6j0zfyMDhfA
+
+
+Slicer-DWI Convert
+https://www.slicer.org/wiki/Documentation/Nightly/Modules/DWIConverter
+https://discourse.slicer.org/t/how-can-i-convert-dicom-series-to-nrrd-files-in-batch-mode/3421/2
+https://discourse.slicer.org/t/errors-when-converting-dicom-to-nrrd-with-dwiconvert/1756
+https://github.com/pieper/nrrdify
